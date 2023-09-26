@@ -1,2 +1,2 @@
-# LeetCode-
+# LeetCode-IssueResolveRecorded
 对leetcode题的题解进行记录
